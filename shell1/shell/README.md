@@ -1,4 +1,4 @@
-# takeout
+# shell
 
 > A Vue.js project
 
